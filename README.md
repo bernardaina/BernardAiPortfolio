@@ -24,3 +24,11 @@ You will produce a report with the following deliverables:
 Business Task:
 - Investigate the Fitbit Fitness Tracker Data from thirty fitbit users whom consented to the submission of their personal tracker data. Apply the insight to a particular Bellabeat product. The product I have chosen is Leaf. 
 - Use insight from analysis to recommend marketing strategies for the company. 
+
+## Consider Key Stakeholders
+### Primary Stakeholders 
+- Urska Srsen, Cofounder and Chief Creative Officer of Bellabeat
+- Sando Mur, Mathematician and Cofounder; key member of the Bellabeat executive team
+
+### Secondary Stakeholders
+- Bellabeat Marketing Analytics Team 
