@@ -20,3 +20,7 @@ You will produce a report with the following deliverables:
 4. A summary of your analysis
 5. Supporting visualizations and key findings
 6. Your top high-level content recommendations based on your analysis
+
+Business Task:
+- Investigate the Fitbit Fitness Tracker Data from thirty fitbit users whom consented to the submission of their personal tracker data. Apply the insight to a particular Bellabeat product. The product I have chosen is Leaf. 
+- Use insight from analysis to recommend marketing strategies for the company. 
